@@ -3,6 +3,11 @@
 #  Name: RELEASE_NOTES
 #
 #==============================================================
+R2.4-0.3.0: 2020-03-26 Bruce Hill
+	Update to base/R7.0.3.1 and ADCore/R3.1-2.3.4
+		as ADCore/R2.6 does not build for base/R7.0.3.1
+	Update asynNDArrayDriver() params for ADCore/R3.0+
+
 R2.4-0.2.0: 24-Apr-2017. H. Slepicka  (slepicka)
     Using ADCore R2.6-1.0.0
 
